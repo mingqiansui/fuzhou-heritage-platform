@@ -1,0 +1,5 @@
+com/heritage/auth/App.class
+com/heritage/auth/entity/User.class
+com/heritage/auth/controller/AuthController.class
+com/heritage/auth/AuthApplication.class
+com/heritage/auth/mapper/UserMapper.class
