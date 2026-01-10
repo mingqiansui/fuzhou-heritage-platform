@@ -1,6 +1,8 @@
 com/heritage/auth/entity/User.class
+com/heritage/auth/aop/AuditAspect.class
 com/heritage/auth/AuthApplication.class
 com/heritage/auth/mapper/AssetMapper.class
+com/heritage/auth/mapper/AuditMapper.class
 com/heritage/auth/App.class
 com/heritage/auth/entity/Asset.class
 com/heritage/auth/controller/AuthController.class

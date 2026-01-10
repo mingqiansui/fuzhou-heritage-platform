@@ -2,6 +2,8 @@
 /root/auth-service/src/main/java/com/heritage/auth/mapper/UserMapper.java
 /root/auth-service/src/main/java/com/heritage/auth/AuthApplication.java
 /root/auth-service/src/main/java/com/heritage/auth/mapper/AssetMapper.java
+/root/auth-service/src/main/java/com/heritage/auth/aop/AuditAspect.java
 /root/auth-service/src/main/java/com/heritage/auth/App.java
 /root/auth-service/src/main/java/com/heritage/auth/entity/Asset.java
+/root/auth-service/src/main/java/com/heritage/auth/mapper/AuditMapper.java
 /root/auth-service/src/main/java/com/heritage/auth/entity/User.java
